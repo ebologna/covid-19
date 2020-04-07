@@ -1,0 +1,4 @@
+"0","covid19<-read.table(""covid19countryinfo.csv"", header = TRUE, sep = "","")
+"
+"2","EOF within quoted string"
+"2","number of items read is not a multiple of the number of columns"
